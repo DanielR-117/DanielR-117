@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img width="4000" src="https://github.com/DanielR-117/Profile_Images/blob/main/Skills%20(1).png"  />
+  <img width="4000" src="https://github.com/DanielR-117/Profile_Images/blob/main/Recently%20played.png"  />
 </div>
 
 ###
