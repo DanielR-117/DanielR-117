@@ -50,12 +50,14 @@
 
 <div align="center">
   <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/thats%20all%20.png"  />
+  <br>
+  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/for%20now.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/for%20now.png"  />
+  
 </div>
 
 
