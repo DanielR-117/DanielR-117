@@ -41,7 +41,9 @@
 ###
 
 <div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31onqql53pwddztquroncodtynlu)
+  !<a href="https://open.spotify.com/user/MorningStar">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MorningStar&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
