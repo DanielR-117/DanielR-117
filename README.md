@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Daniel Rincón<br>ELectronic Engineer student at Universidad Santo Tomás</p>
+<p align="left">Daniel Rincón<br>ELectronic Engineer student at Universidad Santo Tomás<br>Currently working as a Remote support engineer at Rockwell Automation</p>
 
 ###
 
