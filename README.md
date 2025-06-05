@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/DanielR-117/Profile_Images/blob/main/Skills.png"  />
+  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/Skills.png"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/DanielR-117/Profile_Images/blob/main/Recently%20played.png"  />
+  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/Recently%20played.png"  />
 </div>
 
 ###
@@ -49,13 +49,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/DanielR-117/Profile_Images/blob/main/thats%20all%20.png"  />
+  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/thats%20all%20.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/DanielR-117/Profile_Images/blob/main/for%20now.png"  />
+  <img width="1000" src="https://github.com/DanielR-117/Profile_Images/blob/main/for%20now.png"  />
 </div>
 
 ###
